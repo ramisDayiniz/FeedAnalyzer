@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FeedAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/jar</output-path>
+    <root id="root">
+      <element id="archive" name="FeedAnalyzer.jar">
+        <element id="module-output" name="FeedAnalyzer" />
+        <element id="module-test-output" name="FeedAnalyzer" />
+      </element>
+    </root>
+  </artifact>
+</component>
