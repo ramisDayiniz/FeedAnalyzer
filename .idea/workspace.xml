@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84ce791-78df-4216-adfe-08dc0a443f42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/design/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/readme" afterDir="false" />
+    <list default="true" id="d84ce791-78df-4216-adfe-08dc0a443f42" name="Changes" comment="Resource, Ordner Struktur, Gitignore und Hello World wurde erstellt bzw. überprüft.">
+      <change afterPath="$PROJECT_DIR$/rescource/SmartStoplist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rescource/potus_tweets_2017_webarchive_publicaccess.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rescource/vader_lexicon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnalyzedText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeedAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FeedAnalyzer.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -96,11 +98,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743531549925</updated>
-      <workItem from="1743531551125" duration="625000" />
+      <workItem from="1743531551125" duration="7254000" />
     </task>
+    <task id="LOCAL-00001" summary="Resource, Ordner Struktur, Gitignore und Hello World wurde erstellt bzw. überprüft.">
+      <option name="closed" value="true" />
+      <created>1743532285024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743532285024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resource, Ordner Struktur, Gitignore und Hello World wurde erstellt bzw. überprüft." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resource, Ordner Struktur, Gitignore und Hello World wurde erstellt bzw. überprüft." />
   </component>
 </project>
